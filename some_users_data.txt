@@ -8,3 +8,7 @@ password    user1user1
 login       Abstarct_user2
 E-mail      Abstarct_user2@example.com
 password    user2user2
+
+login       Abstarct_user3
+E-mail      Abstarct_user3@example.com
+password    user3user3

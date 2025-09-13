@@ -21,8 +21,11 @@ class BirthdayForm(forms.ModelForm):
     class Meta:
         # Указываем модель, на основе которой должна строиться форма.
         model = Birthday
-        # Указываем, что надо отобразить все поля.
-        fields = '__all__'
+        # # Указываем, что надо отобразить все поля.
+        # fields = '__all__'
+        # Исключение поля "автор"
+        exclude = ('author',)
+
         date_field = forms.DateField(
             widget=forms.DateInput(format='%Y-%m-%d'),
             input_formats=['%Y-%m-%d']
