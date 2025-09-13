@@ -97,3 +97,5 @@ EMAIL_FILE_PATH = BASE_DIR / 'sent_emails'
 
 # После логина будем перенаправлять пользователя на главную страницу — homepage
 LOGIN_REDIRECT_URL = 'pages:homepage'
+
+LOGIN_URL = 'login'
