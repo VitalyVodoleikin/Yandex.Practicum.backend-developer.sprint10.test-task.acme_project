@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0KHQsdGA0L7RgSDQv9Cw0YDQvtC70Y8g0L3QsCAxMjcuMC4wLjE6ODAwMA==?=
+From: webmaster@localhost
+To: Djangoadmin@example.com
+Date: Sat, 13 Sep 2025 07:17:56 -0000
+Message-ID: <175774787601.6420.3195480181473260108@DESKTOP-JILBVN9.lan>
+
+
+Вы получили это письмо, потому что вы (или кто-то другой) запросили восстановление пароля от учётной записи на сайте 127.0.0.1:8000, которая связана с этим адресом электронной почты.
+
+Пожалуйста, перейдите на эту страницу и введите новый пароль:
+
+http://127.0.0.1:8000/auth/reset/MQ/cw2clv-40e08a75c2deab06bdece54975cf78d5/
+
+In case you’ve forgotten, you are: Djangoadmin
+
+Спасибо, что используете наш сайт!
+
+Команда сайта 127.0.0.1:8000
+
+
+
+-------------------------------------------------------------------------------
